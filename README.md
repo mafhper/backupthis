@@ -1,4 +1,4 @@
-# backup_app.py - Backup Manager Pro
+# BackupThis
 
 Este script Python, `backup_app.py`, é uma aplicação de interface gráfica (GUI) desenvolvida com `tkinter` para facilitar a criação de backups de pastas no sistema Ubuntu. Com uma interface amigável, o Backup Manager Pro permite que você configure e execute tarefas de backup de forma simples e eficiente.
 
